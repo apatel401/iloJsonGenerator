@@ -1,0 +1,52 @@
+{
+    "id": 2,
+    "department": "elem",
+    "imageSrc": "../assets/img/test.png",
+    "imageAlt": "This is the alt text for the whole image",
+    "title": "The creative Analysis Process",
+    "instructions": "Here are some instructions",
+    "highlightColor": "#64113f",
+    "areas": [{
+            "name": "Initial reaction",
+            "areaAlt": "Alt text of the area without period at the end",
+            "areaDetails": "Lorem ipsum Mus iaculis sem in tellus varius dictum. Maecenas hendrerit suscipit sapien. Pellentesque at tellus sit amet urna tristique interdum. Vestibulum ornare, libero et varius lacinia, justo neque pretium arcu, in vulputate eros est vitae massa..Lorem ipsum Mus iaculis sem in tellus.",
+            "coords": "552,193,123",
+            "shape": "circle"
+        },
+        {
+            "name": "Analysis and interpretation",
+            "areaAlt": "Alt text of the area with a longer 'Lorem Ipsum' text, and two periods at the end: Lorem ipsum Mus iaculis sem in tellus varius dictum. Maecenas hendrerit suscipit sapien. Pellentesque at tellus sit amet urna tristique interdum. Vestibulum ornare, libero et varius lacinia, justo neque pretium arcu, in vulputate eros e.",
+            "areaDetails": "onec a odio Morbi mollis nec erat dapibus fringilla. Quisque aliquet sapien a fermentum cursus.",
+            "shape": "circle",
+            "coords": "886,523,123"
+        },
+        {
+            "name": "Consideration of Cultural Context",
+            "areaAlt": "Alt text of the area with a period at the end.",
+            "areaDetails": "onec a odio at mauris sollicitudin vehc nulla mollis porta sit amet posuere elit",
+            "shape": "circle",
+            "coords": "553,859,124"
+        },
+        {
+            "name": "Expression of Aesthetic Judgement",
+            "areaAlt": "Alt text of the area.",
+            "areaDetails": "Expression of Aesthetic Judgement",
+            "shape": "circle",
+            "coords": "213,522,124"
+        },
+        {
+            "name": "Ongoing reflection",
+            "areaAlt": "Alt text of the area.",
+            "areaDetails": "These details have 320 characters pharetra neque. Praese Quisque fringilla tellus metus, ac imperdiet odio bibendum a. Quisque rutrum turpis eu sagittis luctus. Cras a dignissim dolor. Praesent vehicula eget nibh at tempus. In id diam sit amet tortor porttitor auctor id vel ligula. Praesent pulvina Lorem ipsum Mus iacu",
+            "shape": "circle",
+            "coords": "553,525,124"
+        },
+        {
+            "name": "Arrow",
+            "areaAlt": "Alt text of the area.",
+            "areaDetails": "Mauris vulputate vitae dolor a f vitus a, dapibus nec metus. Fusce faucibus pulvinar efficitur",
+            "shape": "poly",
+            "coords": "697,319,721,292,766,325,774,314,788,358,743,355,757,333"
+        }
+    ]
+}

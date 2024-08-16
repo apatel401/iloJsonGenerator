@@ -1,0 +1,45 @@
+{
+    "id": 5,
+    "department": "elem",
+    "imageSrc": "../assets/img/image_photo.png",
+    "imageAlt": "This is the alt text for the whole image",
+    "title": "Instructions to use the ILO here. Use paragraph text specs (I believe it’s 1.2rem/19.2 px) Can be multiple lines. Left justify.",
+    "instructions": "",
+    "highlightColor": "#7D1863",
+    "areas": [{
+            "name": "Fish #1.",
+            "areaAlt": "Alt text for pin #1.",
+            "areaDetails": "Caption for pin #1.",
+            "shape": "circle",
+            "coords": "552,247,89"
+        },
+        {
+            "name": "Fish #2.",
+            "areaAlt": "Alt text for pin #2.",
+            "areaDetails": "Caption for pin #2.",
+            "shape": "circle",
+            "coords": "305,326,85"
+        },
+        {
+            "name": "Fish #3.",
+            "areaAlt": "Alt text for pin #3.",
+            "areaDetails": "Caption for pin #3.",
+            "shape": "circle",
+            "coords": "801,342,112"
+        },
+        {
+            "name": "Fish #4.",
+            "areaAlt": "Alt text for pin #4.",
+            "areaDetails": "Caption for pin #4.",
+            "shape": "circle",
+            "coords": "1041,677,103"
+        },
+        {
+            "name": "Fish #5.",
+            "areaAlt": "Alt text for pin #5.",
+            "areaDetails": "Caption for pin #5.",
+            "shape": "circle",
+            "coords": "367,458,133"
+        }
+    ]
+}

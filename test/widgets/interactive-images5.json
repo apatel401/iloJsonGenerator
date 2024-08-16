@@ -1,0 +1,83 @@
+{
+    "id": 1,
+    "department": "elem",
+    "imageSrc": "../assets/img/maslows-triangle_1.jpg",
+    "imageAlt": "Pyramid representing Maslow's Hierarchy of Needs, divided in 5 sections.",
+    "title": "Maslow's Hierarchy of Needs",
+    "instructions": "Press on each area of the image to explore the content.",
+    "highlightColor": "",
+    "areas": [{
+            "name": "Physiological Needs",
+            "areaAlt": "Trapezoid section, showcasing the largest area on the bottom of the pyramid.",
+            "areaDetails": "\u2022\u00a0 Hello First one \n \u2022\u00a0 Hello Second one",
+            "shape": "poly",
+            "coords": "202,590,864,592,930,710,130,709"
+        },
+        {
+            "name": "Safety Needs",
+            "areaAlt": "Trapezoid section, showcasing the seconed largest area on the bottom of the pyramid.",
+            "areaDetails": "These include personal security, employment, health, and safety. ",
+            "shape": "poly",
+            "coords": "268,478,798,476,861,589,201,589"
+        },
+        {
+            "name": "Belonging Needs",
+            "areaAlt": "Trapezoid section, showcasing the third largest area in the middle of the pyramid.",
+            "areaDetails": "These include friendship, intimacy, family, sense of connection, and love.",
+            "shape": "poly",
+            "coords": "332,359,730,359,799,478,266,480"
+        },
+        {
+            "name": "Esteem Needs",
+            "areaAlt": "Trapezoid section, showcasing the second smallest area on top of the pyramid.",
+            "areaDetails": "These include respect, self-esteem, status, prestige, recognition, freedom, and feeling of accomplishment.",
+            "shape": "poly",
+            "coords": "400,244,662,244,726,355.8,332.2,355.8"
+        },
+
+        {
+            "name": "Self-actualization Needs",
+            "areaAlt": "Triangle section, showcasing the smallest area on top of the pyramid.",
+            "areaDetails": "These include achieving one’s full potential, including any creative activities.",
+            "shape": "poly",
+            "coords": "532,10,399,246,662,246"
+        },
+        {
+            "name": "Basic Needs",
+            "areaAlt": "Area on the right side of the pyramid, encompassing Safety and Physiological needs, at the bottom part.",
+            "areaDetails": "Basic needs contain our physiological and safety needs. These are the first needs that influence behaviour.",
+            "shape": "poly",
+            "coords": "906,534,1014,534,1048,592,939,592"
+        },
+        {
+            "name": "Psychological Needs",
+            "areaAlt": "Area on the right side of the pyramid, encompassing Belonging and Esteem needs, at the middle part.",
+            "areaDetails": "Psychological needs include an individual’s belonging and esteem needs. At this level, the need for meaningful relationships influences behaviour.",
+            "shape": "poly",
+            "coords": "777,318,952,318,985,373,811,373"
+        },
+
+        {
+            "name": "Self-fulfillment Needs",
+            "areaAlt": "Area on the right side of the pyramid, encompassing Self-Actualization needs, at the top part.",
+            "areaDetails": "Self-fulfillment contains the need for self-actualization, and can only be accomplished when the previous needs are met.",
+            "shape": "poly",
+            "coords": "634,68,803,68,836,127,667,125"
+        },
+        {
+            "name": "Deficiency Needs",
+            "areaAlt": "Area on the left side of the pyramid, encompassing Physiological, Safety, Belonging and Esteem needs, at the bottom part.",
+            "areaDetails": "Deficiency needs covers the needs that arise from being without something. For example, an individual experiencing low levels of safety may still be able to attend to belonging needs, though likely not as sufficiently as if safety needs were met.",
+            "shape": "poly",
+            "coords": "78.3,409.9,226.6,409.9,192.3,468.8,50,468.8"
+        },
+        {
+            "name": "Growth Needs",
+            "areaAlt": "Area on the left side of the pyramid, encompassing Self-Actualization needs, at the top part.",
+            "areaDetails": "Growth needs, like self-fulfillment, contain the need for self-actualization and come from the desire to grow as an individual.",
+            "shape": "poly",
+            "coords": "296.1,67.2,425.3,67.2,394,125.6,269.8,125.6"
+        }
+
+    ]
+}

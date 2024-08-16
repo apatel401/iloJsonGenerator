@@ -1,0 +1,3 @@
+include:
+  - project: 'tvontario/digital-learning-projects/ilcdcc/gitlab_npm_registry'
+    file: '.gitlab-ci.yml'

@@ -1,0 +1,46 @@
+{
+  "id": 3,
+  "imageSrc": "../assets/img/02.05.13.png",
+  "imageAlt": "This is the periodic table example",
+  "periodicTable": true,
+  "title": "Periodic table",
+  "instructions": "Here are some instructions",
+  "highlightColor": "#64113f",
+  "areas": [
+    {
+      "name": "Alkali Metals",
+      "areaAlt": "Alkali Metals",
+      "areaDetails": "These Group 1 metals are very reactive species that easily lose their one valence electron to form ionic compounds. These elements occur naturally in nature.",
+      "coords": "69,72,126,504",
+      "shape": "rect"
+    },
+    {
+      "name": "Alkali Earth Metals",
+      "areaAlt": "Alkali Earth Metals",
+      "areaDetails": "These Group 2 metals are reactive species that lose their two valence electrons. They have a smaller atomic radii compared to alkali metals.",
+      "shape": "rect",
+      "coords": "132,133,189,504"
+    },
+    {
+      "name": "Transition Metals",
+      "areaAlt": "Transition Metals",
+      "areaDetails": "These metals are high in density and have high melting points, and are good conductors of heat and electricity. ",
+      "shape": "rect",
+      "coords": "195,258,820,504"
+    },
+    {
+      "name": "Helogens",
+      "areaAlt": "Helogens",
+      "areaDetails": "Halogens have low melting and boiling points, they have high electronegativities, and are sparingly soluble in water. As you go down the periodic table, their atomic radii increases and reactivity and electronegativity decreases.",
+      "shape": "rect",
+      "coords": "1078,133,1133,508"
+    },
+    {
+      "name": "Nobel gases",
+      "areaAlt": "Nobel gases",
+      "areaDetails": "Noble gases are odorless, colorless, and nonflammable gases that have low chemical reactivity. The full valence electron shells of these atoms make noble gases extremely stable and very unlikely to form chemical bonds.",
+      "shape": "rect",
+      "coords": "1139,70,1198,507"
+    }
+  ]
+}

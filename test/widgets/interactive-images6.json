@@ -1,0 +1,67 @@
+{
+    "id": 3,
+    "department": "elem",
+    "imageSrc": "../assets/img/image_hierarchy.jpg",
+    "imageAlt": "Pyramid representing Feudal Japan Hierarchy, divided in 8 sections.",
+    "title": "Instructions to use the ILO here. Use paragraph text specs (I believe it’s 1.2rem/19.2 px) Can be multiple lines. Left justify.",
+    "instructions": "",
+    "highlightColor": "#7D1863",
+    "areas": [{
+            "name": "Emperor",
+            "areaAlt": "Alt text for Emperor",
+            "areaDetails": "Caption for pin #1.",
+            "shape": "poly",
+            "coords": "1595,279,1340,874,1843,874"
+        },
+        {
+            "name": "Shogun",
+            "areaAlt": "Alt text for Shogun",
+            "areaDetails": "Caption for pin #2.",
+            "shape": "poly",
+            "coords": "1334,882,1845,875,1954,1170,1223,1170"
+        },
+        {
+            "name": "Diamyos",
+            "areaAlt": "Alt text for Diamyos",
+            "areaDetails": "Caption for pin #3.",
+            "shape": "poly",
+            "coords": "1226,1169,1951,1169,2088,1468,1101,1462"
+        },
+        {
+            "name": "Samurai",
+            "areaAlt": "Alt text for Samurai",
+            "areaDetails": "Caption for pin #4.",
+            "shape": "poly",
+            "coords": "1095,1475,2082,1475,2213,1768,970,1762"
+        },
+        {
+            "name": "Ronin",
+            "areaAlt": "Alt text for Ronin",
+            "areaDetails": "Caption for pin #5.",
+            "shape": "poly",
+            "coords": "964,1774,2219,1774,2338,2061,845,2055"
+        },
+        {
+            "name": "Peasants",
+            "areaAlt": "Alt text for Peasants",
+            "areaDetails": "Caption for pin #6.",
+            "shape": "poly",
+            "coords": "845,2060,2338,2060,2450,2359,720,2353"
+        },
+        {
+            "name": "Artisans",
+            "areaAlt": "Alt text for Artisans",
+            "areaDetails": "Caption for pin #7.",
+            "shape": "poly",
+            "coords": "714,2364,2463,2370,2594,2651,589,2657"
+        },
+
+        {
+            "name": "Merchants",
+            "areaAlt": "Alt text Emperor",
+            "areaDetails": "Caption for pin #8.",
+            "shape": "poly",
+            "coords": "589,2656,2594,2662,2719,2943,470,2937"
+        }
+    ]
+}
