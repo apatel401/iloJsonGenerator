@@ -1,0 +1,63 @@
+{
+  "name": "@tvontario/interactive-images",
+  "version": "1.0.5",
+  "description": "Reusable, configurable interactive component",
+  "main": "index.js",
+  "scripts": {
+    "publishTest": "gulp publishTest",
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "interactives",
+    "widget",
+    "react",
+    "multiple-choice"
+  ],
+  "author": "content solutions",
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "dist/**/*"
+  ],
+  "publishConfig": {
+    "@tvontario:registry": "https://gitlab.com/api/v4/projects/42433417/packages/npm/"
+  },
+  "dependencies": {
+    "@tvontario/react": "^17.0.1",
+    "@tvontario/interactive-images": "^1.0.5",
+    "@tvontario/widget-common": "^1.1.14"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.12.13",
+    "@babel/preset-react": "^7.12.13",
+    "@tvontario/development-assets": "^1.0.0",
+    "@tvontario/gvl": "^1.1.3",
+    "@tvontario/k8-bootstrap-css": "^1.0.1",
+    "babel-loader": "^9.1.3",
+    "css-loader": "^5.1.3",
+    "del": "^6.0.0",
+    "fancy-log": "^1.3.3",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-bump": "^3.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^2.0.9",
+    "gulp-remove-logging": "^1.2.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.0.0",
+    "merge-stream": "^2.0.0",
+    "sass": "1.28",
+    "sass-loader": "^10.1.1",
+    "style-loader": "^2.0.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0",
+    "webpack-stream": "^7.0.0",
+    "yargs": "^16.2.0"
+  }
+}
